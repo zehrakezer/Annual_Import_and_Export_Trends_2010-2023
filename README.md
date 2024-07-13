@@ -8,3 +8,6 @@ Understanding these trends helps identify key players in the global market, emer
 This study analyzes annual import and export data on the basis of various countries and product types between 2010 and 2023. The analysis examines countries' trade balances, annual rates of change and trade volumes. The data set includes import and export values for different years, and new features such as trade balance, trade volume, and annual change rates have been created based on these values.
 
 ![image](newplot.png)
+
+
+![image](general_trading.png)
