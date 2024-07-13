@@ -10,3 +10,5 @@ This study analyzes annual import and export data on the basis of various countr
 ![image](newplot.png)
 
 ![image](general_trading.png)
+
+![image](countrybased_trading)
